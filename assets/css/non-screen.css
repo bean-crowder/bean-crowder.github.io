@@ -1,0 +1,71 @@
+
+#shell,
+.shell-width,
+.side-width {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+}
+
+#shell-top,
+#shell-bottom {
+  position: static;
+  top: auto;
+  bottom: auto;
+  left: auto;
+}
+
+/* header */
+
+header {
+  position: fixed;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  top: 0;
+  z-index: 2;
+  background: #420314;
+  padding: 0;
+}
+
+header #logo {
+  float: left;
+  height: 80px;
+  border-top: 0 none;
+  border-left: 0 none;
+}
+header #logo img {
+  height: 80px;
+  width: auto;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  line-height: 75px;
+  padding: 1rem 0;
+}
+
+nav {
+  display: none; /* TODO */
+}
+
+/* footer */
+
+footer {
+  padding: 1.5rem 40px;
+  font-size: 1.3rem;
+}
+
+footer h1 {
+  font-size: 1.7rem;
+}
+
+/* content */
+
+#main {
+  width: auto;
+  float: none;
+}
+#content {
+  padding: 100px 40px 40px;
+}

@@ -43,6 +43,7 @@ header #logo {
 header #logo img {
   height: 80px;
   width: auto;
+  border-radius: 0;
 }
 
 header h1 {

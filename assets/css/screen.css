@@ -134,6 +134,7 @@ header #logo {
 header #logo img {
   width: 100%;
   display: block;
+  border-radius: 8px 0;
 }
 
 header h1{

@@ -7,6 +7,10 @@
   min-width: 0;
 }
 
+.side-width {
+  position: relative;
+}
+
 #shell-top,
 #shell-bottom {
   position: static;
@@ -29,7 +33,9 @@ header {
 }
 
 header #logo {
-  float: left;
+  position: fixed;
+  left: 0;
+  top: 0;
   height: 80px;
   border-top: 0 none;
   border-left: 0 none;
@@ -46,8 +52,49 @@ header h1 {
 }
 
 nav {
-  display: none; /* TODO */
+  position: fixed;
+  top: 0px;
+  right: 20px;
+  z-index: 3;
+  padding: 0;
 }
+
+nav ul {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 80px;
+  border-radius: 6px;
+  padding: 0.3rem;
+}
+
+nav ul li a {
+  border-radius: 4px;
+}
+
+nav ul li a.active::after,
+nav ul li a:hover::after {
+  border: 0 none;
+}
+
+nav #nav-opener {
+  font-size: 2rem;
+  display: inline-block;
+  text-indent: -999rem;
+  text-decoration: none;
+}
+
+nav #nav-opener:after {
+  display: block;
+  content: '𝄘';
+  font-weight: bold;
+  text-indent: 0;
+  border: 2px solid pink;
+  border-radius: 6px;
+  color: pink;
+  padding: 0.2rem 0.5rem;
+}
+
 
 /* footer */
 

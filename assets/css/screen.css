@@ -243,6 +243,44 @@ footer dl::after {
   z-index: 1
 }
 
+#main.home {
+  padding: 4em 0 0;
+  background: transparent none;
+}
+#main.home #content{
+  padding: 0;
+  border: 0;
+}
+
+#main.home h1 {
+  background: url(/assets/images/logo-top.png) no-repeat center top;
+  color: #eee;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 48px;
+  margin: 5rem 0 2rem;
+  padding: 180px 0 0;
+  border: 0 none;
+  font-family: sansita;
+}
+#main.home h2 {
+  background: url(/assets/images/logo-bottom.png) no-repeat center top;
+  color: #eee;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 37px;
+  border: 2px 0 solid pink;
+  font-family: sansita;
+}
+
+#main.home h2 path {
+  fill: transparent;
+}
+#main.home h2 text {
+  fill: #eee;
+}
+
+
 #content {
   padding: 1.2rem 40px;
   border-left: 5px solid #000a;

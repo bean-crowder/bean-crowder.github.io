@@ -53,8 +53,8 @@ header h1 {
 
 nav {
   position: fixed;
-  top: 0px;
-  right: 20px;
+  top: -4px;
+  right: 25px;
   z-index: 3;
   padding: 0;
 }
@@ -86,13 +86,13 @@ nav #nav-opener {
 
 nav #nav-opener:after {
   display: block;
-  content: '𝄘';
+  content: '⁝';
   font-weight: bold;
   text-indent: 0;
   border: 2px solid pink;
   border-radius: 6px;
   color: pink;
-  padding: 0.2rem 0.5rem;
+  padding: 0.3rem 1rem;
 }
 
 

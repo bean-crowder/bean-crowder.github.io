@@ -37,7 +37,7 @@ I’d love to connect with you, call me to book your free coaching session.
 No packages. No pressure. Just real connection.
 ### ➡️ Book a Session
 - 📱 **Call or Text:** 301-332-4543
-- 📧 **Email:** christianee@msn.com
+- 📧 **Email:** YourWholeLifeCoaching@gmail.com
 
 ## ✍️ Note to Clients
 I am a life coach, not a licensed therapist, counselor, or medical doctor. My support is grounded in lived experience, love, and personal insight, not clinical advice. If you are facing a mental health emergency or need medical attention, please reach out to a qualified professional.

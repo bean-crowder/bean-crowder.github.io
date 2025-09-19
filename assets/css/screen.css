@@ -224,6 +224,11 @@ footer dd {
   float: right;
   width: 68%;
   margin: .3rem 0;
+  word-wrap: break-word;
+}
+
+footer dd span {
+  word-wrap: normal;
 }
 
 footer dd::after,

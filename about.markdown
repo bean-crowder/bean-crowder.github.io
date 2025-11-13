@@ -4,21 +4,32 @@ title: About
 permalink: /about/
 ---
 
-## 🌿 Your Whole Life Coaching with Bean
-Dedicated to Julie, who was always putting one foot in front of the other.
-
-A space created by strength and inspired by love, honoring my sister Julie, a kind and radiant soul who always called me Bean.
+## 🌿 Your Whole Life Coaching with Cristiane Crowder
+Dedicated to Julie and to my father, who always put one foot in front of the other.
 
 
 ## 💛 Welcome
 ![Family picnic photo](/assets/images/family.jpg)
 
-Hi, I’m Christiane Crowder, also known as Bean by my beloved sisters. I am a dedicated mother, supportive wife, and devoted friend, committed to nurturing strong relationships in every aspect of life.
+Hi, I’m Christiane. My life has taken me through grief, anxiety, weight struggles, emotional eating, relationship challenges, and moments where I had to rebuild myself from the inside out. Those experiences became my training ground, the place where I learned how to rise, how to love myself again, and how to stay committed to growth even when life felt heavy.
 
-Life has taken me through grief, heartbreak, obesity, healing, and self-discovery. And now, I offer what I’ve learned to others walking their own path.
+Today, I bring that strength, compassion, and lived understanding into my coaching.
+I am a coach who leads with my heart, present, grounded, and fully invested in the people I work with.
 
-If you're navigating stress, health struggles, hormone changes, relationships, self-worth, or simply trying to stay grounded, I’m here.
-I offer more than advice. I offer my heart, my time, my presence, and a safe space to be fully you.
+I help people who are navigating:
+- Grief and loss
+- Anxiety and overwhelming emotions
+- Weight challenges and emotional eating
+- Healing their relationship with food and body
+- Relationship struggles and communication blocks
+- Rebuilding confidence and self worth
+- Setting goals and sticking to them
+- Creating a life that feels grounded, loving, and aligned
+
+I meet you exactly where you are with love, honesty, and tools that support your whole life, mind, body, and soul.
+
+If you’re ready to feel supported, understood, and deeply encouraged, I’m here.
+One step at a time. One choice at a time. One foot in front of the other, just like Julie, just like my dad, and just like you.
 
 ## 🧭 How I Can Support You
 - A one-on-one coaching conversation

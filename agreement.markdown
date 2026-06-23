@@ -4,7 +4,7 @@ title: Client Agreement / Coaching Disclaimer
 permalink: /agreement/
 ---
 
-## Your Whole Life Coaching with Bean
+## Your Whole Life Coaching with Christiane Crowder
 
 **Coach:** Christiane Crowder (“Coach”)  
 **Client:** `________________________`  

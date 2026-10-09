@@ -23,8 +23,6 @@ I help people who are navigating:
 - Healing their relationship with food and body
 - Relationship struggles and communication blocks
 - Rebuilding confidence and self worth
-- Setting goals and sticking to them
-- Creating a life that feels grounded, loving, and aligned
 
 I meet you exactly where you are with love, honesty, and tools that support your whole life, mind, body, and soul.
 

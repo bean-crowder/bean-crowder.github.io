@@ -477,6 +477,10 @@ pre code {
     border-radius: 0 8px 8px 0;
   }
 
+  aside.summary {
+    display: none;
+  }
+
   footer dd {
     width: 90%;
   }

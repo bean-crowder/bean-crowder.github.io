@@ -24,6 +24,8 @@ I help people who are navigating:
 - Relationship struggles and communication blocks
 - Rebuilding confidence and self worth
 
+I specialize in coaching clients through hormonal shifts and body changes, offering practical suggestions, support, and true understanding.
+
 I meet you exactly where you are with love, honesty, and tools that support your whole life, mind, body, and soul.
 
 If you’re ready to feel supported, understood, and deeply encouraged, I’m here.

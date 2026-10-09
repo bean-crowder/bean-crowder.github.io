@@ -3,7 +3,7 @@
   color: #333 !important;
 }
 
-header, nav, aside, footer, img {
+header, nav, footer, img {
   display: none;
 }
 
